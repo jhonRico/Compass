@@ -20,6 +20,9 @@ links:
   - name: ''
     type: OTHER_LINK
     url: 'https://softtekpractica.atlassian.net/wiki/spaces/~60ca0d4d624d700069094658/pages/10813442/Minutas+del+2025-06-03'
+  - name: ''
+    type: CHAT_CHANNEL
+    url: 'https://app.slack.com/client/T08V4RXM3NZ/C08V4RY1J4V?entry_point=default_oauth&geocode=es-ve'
 
 relationships: {}
 labels: null
