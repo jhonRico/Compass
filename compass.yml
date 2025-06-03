@@ -1,0 +1,31 @@
+name: Hola mundo
+id: 'ari:cloud:compass:7686dd9a-f147-4d28-8e98-61167ade32df:component/b8578600-41af-4de2-a07a-ff0aeb22ea0a/82caf675-cf86-4acd-bb06-a03f0c0c3000'
+description: Estudiando compass Atlassian
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/2a4db72e-37a8-46b8-9ff5-08dc0ca43246'
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: ''
+    type: PROJECT
+    url: 'https://softtekpractica.atlassian.net/jira/software/c/projects/EM/boards/34/backlog'
+  - name: GITHUB
+    type: OTHER_LINK
+    url: 'https://github.com/jhonRico/Compass.git'
+  - name: ''
+    type: REPOSITORY
+    url: 'https://github.com/jhonRico/Compass.git'
+  - name: ''
+    type: OTHER_LINK
+    url: 'https://softtekpractica.atlassian.net/wiki/spaces/~60ca0d4d624d700069094658/pages/10813442/Minutas+del+2025-06-03'
+  - name: ''
+    type: CHAT_CHANNEL
+    url: 'https://app.slack.com/client/T08V4RXM3NZ/C08V4RY1J4V?entry_point=default_oauth&geocode=es-ve'
+relationships: {}
+labels: null
+customFields: null
+
+# Obtén más información sobre cómo dar formato a compass.yml:
+# https://go.atlassian.com/compass-yml-format
